@@ -40,5 +40,5 @@ switch ($class) {
         echo "$class Майже всі вивчили!";
         break;
     default: 
-        echo "$class Такого класу ми не маємо!";
+        echo "<span style=\"color: red\">$class Такого класу ми не маємо!</span>";
 }

@@ -13,5 +13,5 @@ switch ($day) {
         echo "Wendnesday";
         break;
     default: 
-        echo "Error";
+        echo "<span style=\"color: red\">Error</span>";
 }
